@@ -1,6 +1,6 @@
 #Redbull Button
 
-##An application for using the Dream Cheeky Big Red Button to count the number of Redbulls in the office.
+##An application for using the Dream Cheeky Big Red Button to count the number of Redbulls ingested in the office.
 
 #####Resources
 
